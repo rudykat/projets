@@ -15,3 +15,5 @@ Il y a deux problèmes par contre : tout d'abord ce projet a été fait pour mon
 --- Creature 3000 ---
 
 Il s'agit d'un ersatz de jeu (sans côté ludique) fait avec Processing pour valider un semestre lors de mes études, dans le but de montrer que je pouvais appliquer des concepts vu en cours (POO, tableaux dynamiques) dans une situation plus ou moins pratique.  
+
+Malheureusement, ayant actuellement quelques problèmes pour mettre en ligne ce projet sur GitHub, je vous propose de le télécharger ici en attendant : https://mega.co.nz/#!M8NBAYID!YGLIngcabilkYxQXcFStAGM6T7oZcogXIlATI1XFcVc
